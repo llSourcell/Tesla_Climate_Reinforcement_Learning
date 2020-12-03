@@ -10,8 +10,11 @@ This is the code for ["Lets Hack My Tesla using Javascript LIVE"](https://youtu.
 - Nodejs 
 - Teslajs 
 - reinforcejs
+- @babel/core 
+- @babel/register
+- @babel/preset-env
 
-use npm to install missing dependencies i.e npm install teslajs
+use npm to install each of the missing dependencies i.e npm install teslajs
 
 ## Usage
 
