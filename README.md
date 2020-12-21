@@ -3,7 +3,7 @@ Using Reinforcement Learning on a Tesla to optimize climate and energy
 
 ## Overview 
 
-This is the code for ["Lets Hack My Tesla using Javascript LIVE"](https://youtu.be/i4XvlM_j3A0) the weekly live game show hosted by Siraj Raval. 3 Wizards will each win $175 this week in cryptocurrency. These are all preliminary games for Code Royale Season 1, which starts in a few weeks. Sign up at [http://playcoderoyale.com/](playcoderoyale.com). This code using a mixture of TeslaJS and the ReinforceJS library. It uses both to connect to a tesla, retrieve lots of car state data, and use a Deep Q learning agent to learn how to optimally set the temperature to preserve energy usage. (same temp inside and outside the car). Is it perfect? No. Is it a real example of using machine learning in my everyday life for a somewhat useful task? Yes. :) I love this tesla robot. 
+This is the code for ["Lets Hack My Tesla using Javascript LIVE"](https://youtu.be/i4XvlM_j3A0) the weekly live game show hosted by Siraj Raval. 3 Wizards will each win $175 this week in cryptocurrency. These are all preliminary games for Code Royale Season 1, which starts in a few weeks. Sign up at [https://playcoderoyale.com/](https://playcoderoyale.com/). This code using a mixture of TeslaJS and the ReinforceJS library. It uses both to connect to a tesla, retrieve lots of car state data, and use a Deep Q learning agent to learn how to optimally set the temperature to preserve energy usage. (same temp inside and outside the car). Is it perfect? No. Is it a real example of using machine learning in my everyday life for a somewhat useful task? Yes. :) I love this tesla robot. 
 
 ## Dependencies
 
